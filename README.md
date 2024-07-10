@@ -2,7 +2,13 @@
 
 Execute:
 
-~~~ docker pull henriquessantos/go-app
+```
+docker pull henriquessantos/go-app
+```
+
+```
+docker run henriquessantos/go-app
+```
 
 Link da imagem no Docker Hub:
 
